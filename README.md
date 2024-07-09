@@ -1,2 +1,2 @@
 # Railway-reservation-system
-Simple java console application on railwayy reservation system
+Java console application on railway reservation system
